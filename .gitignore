@@ -1,0 +1,24 @@
+# Tool-generated implementation data; the custom synthesis input is retained.
+td_project/*_Runs/*
+!td_project/camera_to_dsi_display_Runs/syn_1/
+td_project/camera_to_dsi_display_Runs/syn_1/*
+!td_project/camera_to_dsi_display_Runs/syn_1/camera_to_dsi_display.tcl
+td_project/*_Runs/best_result/
+td_project/*.db
+td_project/*.dmp
+td_project/*.lock
+td_project/.*.f
+td_project/*.log
+td_project/*.logw
+sim/_work/
+sim/**/work/
+sim/**/xsim.dir/
+sim/**/.Xil/
+*.wlf
+*.vcd
+*.wdb
+*.jou
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

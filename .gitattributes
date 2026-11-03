@@ -1,0 +1,2 @@
+# Preserve source encodings, line endings, encrypted HDL and ROM data exactly.
+* -text
